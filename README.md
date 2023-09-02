@@ -26,9 +26,5 @@ Step 2: Go to the top right corner of the website and click on personal.
 Step 3: click on View API Keys from the dropdown and then Create new secret .
 
 
-## Contributing
-
-Pull requests are welcome.
-
 ## Development
 I have several other works to do so its all in you people's hand. I made this public so you all are welcome to issue pull requests and add new changes.❤️
